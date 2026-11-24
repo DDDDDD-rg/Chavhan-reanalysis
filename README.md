@@ -2,7 +2,7 @@
 
 [中文说明](README.zh-CN.md) · [Reproduction guide](REPRODUCE.md)
 
-This GNBF5030 course project reanalyses public *Escherichia coli* resequencing reads from the ancestral isolate and ten endpoint clones. It checks the 30 clone-specific events reported in Supplementary Data 1 and reviews the corresponding loci in the ancestor. The public reference is *E. coli* K-12 MG1655 (`NC_000913.3`).
+This repository reanalyses public *Escherichia coli* resequencing reads from the ancestral isolate and ten endpoint clones. It checks the 30 clone-specific events reported in Supplementary Data 1 and reviews the corresponding loci in the ancestor. The public reference is *E. coli* K-12 MG1655 (`NC_000913.3`).
 
 ## Results
 
@@ -14,7 +14,7 @@ This GNBF5030 course project reanalyses public *Escherichia coli* resequencing r
 
 | File | Contents |
 | --- | --- |
-| [Raw MultiQC](qc/raw_qc.html), [trimmed MultiQC](qc/raw_qc_2.html), [QC summary](report/GNBF5030_QC_Summary.xlsx), [trimming counts](qc/trimming_stats.tsv) | Before/after QC for the paired inputs and read-pair retention |
+| [Raw MultiQC](qc/raw_qc.html), [trimmed MultiQC](qc/raw_qc_2.html), [QC summary](report/QC_Summary.xlsx), [trimming counts](qc/trimming_stats.tsv) | Before/after QC for the paired inputs and read-pair retention |
 | [Per-sample alignment summary](breseq/sample_mapping.tsv) | Aligned reads and alignment percentages from each `summary.json` |
 | [Event evidence workbook](breseq/compare/Author_Event_Evidence.xlsx) | Per-event call, read support, ancestral review and evidence links |
 | [GenomeDiff collection](breseq/), [comparison TSV](breseq/compare/all_samples.tsv) | Eleven GenomeDiff and JSON files and the combined annotation table |
