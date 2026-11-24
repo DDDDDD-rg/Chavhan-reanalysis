@@ -1,0 +1,31 @@
+clone	condition	gene_region	position	dna_change	variant_type	match	anc_status	anc_evidence
+S1	Shaken	mraY	96710	G > A	Single-base substitution	Exact	Reference supported	G: 30 | A: 0
+S1	Shaken	cytR	4124122	Delete T	Deletion	Exact	Reference supported	Spanning reads: 29 REF | 0 ALT
+S2	Shaken	mraY	96057	T > C	Single-base substitution	Exact	Reference supported	T: 17 | C: 0
+S2	Shaken	tfaD (prophage)	581577	Insert T	Insertion	Equivalent	Reference supported	Spanning reads: 19 REF | 0 ALT
+S2	Shaken	mreB	3400531	G > A	Single-base substitution	Exact	Reference supported	G: 24 | A: 0
+S3	Shaken	mrcB	165124	A > T	Single-base substitution	Exact	Minor ALT observed	A: 26 | T: 2
+S3	Shaken	mrdB	665554	C > T	Single-base substitution	Exact	Reference supported	C: 33 | T: 0
+S3	Shaken	fadI	2459904	T > G	Single-base substitution	Exact	Reference supported	T: 13 | G: 0
+S3	Shaken	rpoS	2866947	A > G	Single-base substitution	Exact	Reference supported	A: 29 | G: 0
+S4	Shaken	mraY	96078	C > T	Single-base substitution	Exact	Reference supported	C: 24 | T: 0
+S5	Shaken	mraY	96078	C > T	Single-base substitution	Exact	Reference supported	C: 24 | T: 0
+S5	Shaken	isrC upstream	2071308	G > T	Single-base substitution	Exact	Reference supported	G: 15 | T: 0
+R1	Resting	mraY	96078	CC > TT	Double-base substitution	Exact	Reference supported	Spanning reads: 17 REF | 0 ALT
+R1	Resting	ptsG	1158579	Delete T	Deletion	Exact	Reference supported	Spanning reads: 20 REF | 0 ALT
+R2	Resting	murF	94838	C > A	Single-base substitution	Exact	Reference supported	C: 32 | A: 0
+R2	Resting	mraY	96069	C > T	Single-base substitution	Exact	Reference supported	C: 20 | T: 0
+R2	Resting	mprA	2810772	G > C	Single-base substitution	Exact	Reference supported	G: 22 | C: 0
+R2	Resting	hyuA	3010732	C > T	Single-base substitution	Exact	Reference supported	C: 14 | T: 0
+R3	Resting	mrdA	668036	A > G	Single-base substitution	Exact	Reference supported	A: 16 | G: 0
+R3	Resting	mprA upstream	2810757	A > G	Single-base substitution	Exact	Reference supported	A: 24 | G: 0
+R3	Resting	aslA / glmZ	3986340	Delete 15 bp	Deletion	Exact	Reference supported	Spanning reads: 7 REF | 0 ALT
+R4	Resting	bhsA upstream	1168987	T > C	Single-base substitution	Exact	No coverage	0 reads; missing-coverage region
+R4	Resting	mppA	1393895	G > A	Single-base substitution	Exact	Reference supported	G: 13 | A: 0
+R4	Resting	glpT / glpA	2352514	G > T	Single-base substitution	Exact	Reference supported	G: 13 | T: 0
+R4	Resting	mprA upstream	2810757	A > G	Single-base substitution	Exact	Reference supported	A: 24 | G: 0
+R4	Resting	rpoD	3214755	A > G	Single-base substitution	Exact	Reference supported	A: 18 | G: 0
+R5	Resting	mraY	97072	Delete G	Deletion	Exact	Reference supported	Spanning reads: 33 REF | 0 ALT
+R5	Resting	proA	261644	C > T	Single-base substitution	Exact	Reference supported	C: 22 | T: 0
+R5	Resting	dgcQ	2026765	G > T	Single-base substitution	Exact	Reference supported	G: 26 | T: 0
+R5	Resting	pdeA	2517106	G > A	Single-base substitution	Exact	Reference supported	G: 16 | A: 0

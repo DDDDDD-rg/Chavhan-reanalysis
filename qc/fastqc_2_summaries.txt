@@ -1,0 +1,220 @@
+PASS	Basic Statistics	SRR21566757_1P.fastq.gz
+PASS	Per base sequence quality	SRR21566757_1P.fastq.gz
+PASS	Per sequence quality scores	SRR21566757_1P.fastq.gz
+WARN	Per base sequence content	SRR21566757_1P.fastq.gz
+WARN	Per sequence GC content	SRR21566757_1P.fastq.gz
+PASS	Per base N content	SRR21566757_1P.fastq.gz
+WARN	Sequence Length Distribution	SRR21566757_1P.fastq.gz
+PASS	Sequence Duplication Levels	SRR21566757_1P.fastq.gz
+PASS	Overrepresented sequences	SRR21566757_1P.fastq.gz
+PASS	Adapter Content	SRR21566757_1P.fastq.gz
+PASS	Basic Statistics	SRR21566757_2P.fastq.gz
+PASS	Per base sequence quality	SRR21566757_2P.fastq.gz
+PASS	Per sequence quality scores	SRR21566757_2P.fastq.gz
+FAIL	Per base sequence content	SRR21566757_2P.fastq.gz
+WARN	Per sequence GC content	SRR21566757_2P.fastq.gz
+PASS	Per base N content	SRR21566757_2P.fastq.gz
+WARN	Sequence Length Distribution	SRR21566757_2P.fastq.gz
+PASS	Sequence Duplication Levels	SRR21566757_2P.fastq.gz
+PASS	Overrepresented sequences	SRR21566757_2P.fastq.gz
+PASS	Adapter Content	SRR21566757_2P.fastq.gz
+PASS	Basic Statistics	SRR21566758_1P.fastq.gz
+PASS	Per base sequence quality	SRR21566758_1P.fastq.gz
+PASS	Per sequence quality scores	SRR21566758_1P.fastq.gz
+WARN	Per base sequence content	SRR21566758_1P.fastq.gz
+WARN	Per sequence GC content	SRR21566758_1P.fastq.gz
+PASS	Per base N content	SRR21566758_1P.fastq.gz
+WARN	Sequence Length Distribution	SRR21566758_1P.fastq.gz
+PASS	Sequence Duplication Levels	SRR21566758_1P.fastq.gz
+PASS	Overrepresented sequences	SRR21566758_1P.fastq.gz
+PASS	Adapter Content	SRR21566758_1P.fastq.gz
+PASS	Basic Statistics	SRR21566758_2P.fastq.gz
+PASS	Per base sequence quality	SRR21566758_2P.fastq.gz
+PASS	Per sequence quality scores	SRR21566758_2P.fastq.gz
+FAIL	Per base sequence content	SRR21566758_2P.fastq.gz
+WARN	Per sequence GC content	SRR21566758_2P.fastq.gz
+PASS	Per base N content	SRR21566758_2P.fastq.gz
+WARN	Sequence Length Distribution	SRR21566758_2P.fastq.gz
+PASS	Sequence Duplication Levels	SRR21566758_2P.fastq.gz
+PASS	Overrepresented sequences	SRR21566758_2P.fastq.gz
+PASS	Adapter Content	SRR21566758_2P.fastq.gz
+PASS	Basic Statistics	SRR21566759_1P.fastq.gz
+PASS	Per base sequence quality	SRR21566759_1P.fastq.gz
+PASS	Per sequence quality scores	SRR21566759_1P.fastq.gz
+WARN	Per base sequence content	SRR21566759_1P.fastq.gz
+WARN	Per sequence GC content	SRR21566759_1P.fastq.gz
+PASS	Per base N content	SRR21566759_1P.fastq.gz
+WARN	Sequence Length Distribution	SRR21566759_1P.fastq.gz
+PASS	Sequence Duplication Levels	SRR21566759_1P.fastq.gz
+PASS	Overrepresented sequences	SRR21566759_1P.fastq.gz
+PASS	Adapter Content	SRR21566759_1P.fastq.gz
+PASS	Basic Statistics	SRR21566759_2P.fastq.gz
+PASS	Per base sequence quality	SRR21566759_2P.fastq.gz
+PASS	Per sequence quality scores	SRR21566759_2P.fastq.gz
+FAIL	Per base sequence content	SRR21566759_2P.fastq.gz
+WARN	Per sequence GC content	SRR21566759_2P.fastq.gz
+PASS	Per base N content	SRR21566759_2P.fastq.gz
+WARN	Sequence Length Distribution	SRR21566759_2P.fastq.gz
+PASS	Sequence Duplication Levels	SRR21566759_2P.fastq.gz
+PASS	Overrepresented sequences	SRR21566759_2P.fastq.gz
+PASS	Adapter Content	SRR21566759_2P.fastq.gz
+PASS	Basic Statistics	SRR21566760_1P.fastq.gz
+PASS	Per base sequence quality	SRR21566760_1P.fastq.gz
+PASS	Per sequence quality scores	SRR21566760_1P.fastq.gz
+WARN	Per base sequence content	SRR21566760_1P.fastq.gz
+WARN	Per sequence GC content	SRR21566760_1P.fastq.gz
+PASS	Per base N content	SRR21566760_1P.fastq.gz
+WARN	Sequence Length Distribution	SRR21566760_1P.fastq.gz
+PASS	Sequence Duplication Levels	SRR21566760_1P.fastq.gz
+PASS	Overrepresented sequences	SRR21566760_1P.fastq.gz
+PASS	Adapter Content	SRR21566760_1P.fastq.gz
+PASS	Basic Statistics	SRR21566760_2P.fastq.gz
+PASS	Per base sequence quality	SRR21566760_2P.fastq.gz
+PASS	Per sequence quality scores	SRR21566760_2P.fastq.gz
+FAIL	Per base sequence content	SRR21566760_2P.fastq.gz
+WARN	Per sequence GC content	SRR21566760_2P.fastq.gz
+PASS	Per base N content	SRR21566760_2P.fastq.gz
+WARN	Sequence Length Distribution	SRR21566760_2P.fastq.gz
+PASS	Sequence Duplication Levels	SRR21566760_2P.fastq.gz
+PASS	Overrepresented sequences	SRR21566760_2P.fastq.gz
+PASS	Adapter Content	SRR21566760_2P.fastq.gz
+PASS	Basic Statistics	SRR21566761_1P.fastq.gz
+PASS	Per base sequence quality	SRR21566761_1P.fastq.gz
+PASS	Per sequence quality scores	SRR21566761_1P.fastq.gz
+FAIL	Per base sequence content	SRR21566761_1P.fastq.gz
+WARN	Per sequence GC content	SRR21566761_1P.fastq.gz
+PASS	Per base N content	SRR21566761_1P.fastq.gz
+WARN	Sequence Length Distribution	SRR21566761_1P.fastq.gz
+PASS	Sequence Duplication Levels	SRR21566761_1P.fastq.gz
+PASS	Overrepresented sequences	SRR21566761_1P.fastq.gz
+PASS	Adapter Content	SRR21566761_1P.fastq.gz
+PASS	Basic Statistics	SRR21566761_2P.fastq.gz
+PASS	Per base sequence quality	SRR21566761_2P.fastq.gz
+PASS	Per sequence quality scores	SRR21566761_2P.fastq.gz
+FAIL	Per base sequence content	SRR21566761_2P.fastq.gz
+WARN	Per sequence GC content	SRR21566761_2P.fastq.gz
+PASS	Per base N content	SRR21566761_2P.fastq.gz
+WARN	Sequence Length Distribution	SRR21566761_2P.fastq.gz
+PASS	Sequence Duplication Levels	SRR21566761_2P.fastq.gz
+PASS	Overrepresented sequences	SRR21566761_2P.fastq.gz
+PASS	Adapter Content	SRR21566761_2P.fastq.gz
+PASS	Basic Statistics	SRR21566762_1P.fastq.gz
+PASS	Per base sequence quality	SRR21566762_1P.fastq.gz
+PASS	Per sequence quality scores	SRR21566762_1P.fastq.gz
+WARN	Per base sequence content	SRR21566762_1P.fastq.gz
+WARN	Per sequence GC content	SRR21566762_1P.fastq.gz
+PASS	Per base N content	SRR21566762_1P.fastq.gz
+WARN	Sequence Length Distribution	SRR21566762_1P.fastq.gz
+PASS	Sequence Duplication Levels	SRR21566762_1P.fastq.gz
+PASS	Overrepresented sequences	SRR21566762_1P.fastq.gz
+PASS	Adapter Content	SRR21566762_1P.fastq.gz
+PASS	Basic Statistics	SRR21566762_2P.fastq.gz
+PASS	Per base sequence quality	SRR21566762_2P.fastq.gz
+PASS	Per sequence quality scores	SRR21566762_2P.fastq.gz
+FAIL	Per base sequence content	SRR21566762_2P.fastq.gz
+WARN	Per sequence GC content	SRR21566762_2P.fastq.gz
+PASS	Per base N content	SRR21566762_2P.fastq.gz
+WARN	Sequence Length Distribution	SRR21566762_2P.fastq.gz
+PASS	Sequence Duplication Levels	SRR21566762_2P.fastq.gz
+PASS	Overrepresented sequences	SRR21566762_2P.fastq.gz
+PASS	Adapter Content	SRR21566762_2P.fastq.gz
+PASS	Basic Statistics	SRR21566763_1P.fastq.gz
+PASS	Per base sequence quality	SRR21566763_1P.fastq.gz
+PASS	Per sequence quality scores	SRR21566763_1P.fastq.gz
+WARN	Per base sequence content	SRR21566763_1P.fastq.gz
+WARN	Per sequence GC content	SRR21566763_1P.fastq.gz
+PASS	Per base N content	SRR21566763_1P.fastq.gz
+WARN	Sequence Length Distribution	SRR21566763_1P.fastq.gz
+PASS	Sequence Duplication Levels	SRR21566763_1P.fastq.gz
+PASS	Overrepresented sequences	SRR21566763_1P.fastq.gz
+PASS	Adapter Content	SRR21566763_1P.fastq.gz
+PASS	Basic Statistics	SRR21566763_2P.fastq.gz
+PASS	Per base sequence quality	SRR21566763_2P.fastq.gz
+PASS	Per sequence quality scores	SRR21566763_2P.fastq.gz
+FAIL	Per base sequence content	SRR21566763_2P.fastq.gz
+WARN	Per sequence GC content	SRR21566763_2P.fastq.gz
+PASS	Per base N content	SRR21566763_2P.fastq.gz
+WARN	Sequence Length Distribution	SRR21566763_2P.fastq.gz
+PASS	Sequence Duplication Levels	SRR21566763_2P.fastq.gz
+PASS	Overrepresented sequences	SRR21566763_2P.fastq.gz
+PASS	Adapter Content	SRR21566763_2P.fastq.gz
+PASS	Basic Statistics	SRR21566764_1P.fastq.gz
+PASS	Per base sequence quality	SRR21566764_1P.fastq.gz
+PASS	Per sequence quality scores	SRR21566764_1P.fastq.gz
+FAIL	Per base sequence content	SRR21566764_1P.fastq.gz
+WARN	Per sequence GC content	SRR21566764_1P.fastq.gz
+PASS	Per base N content	SRR21566764_1P.fastq.gz
+WARN	Sequence Length Distribution	SRR21566764_1P.fastq.gz
+PASS	Sequence Duplication Levels	SRR21566764_1P.fastq.gz
+PASS	Overrepresented sequences	SRR21566764_1P.fastq.gz
+PASS	Adapter Content	SRR21566764_1P.fastq.gz
+PASS	Basic Statistics	SRR21566764_2P.fastq.gz
+PASS	Per base sequence quality	SRR21566764_2P.fastq.gz
+PASS	Per sequence quality scores	SRR21566764_2P.fastq.gz
+FAIL	Per base sequence content	SRR21566764_2P.fastq.gz
+WARN	Per sequence GC content	SRR21566764_2P.fastq.gz
+PASS	Per base N content	SRR21566764_2P.fastq.gz
+WARN	Sequence Length Distribution	SRR21566764_2P.fastq.gz
+PASS	Sequence Duplication Levels	SRR21566764_2P.fastq.gz
+PASS	Overrepresented sequences	SRR21566764_2P.fastq.gz
+PASS	Adapter Content	SRR21566764_2P.fastq.gz
+PASS	Basic Statistics	SRR21566765_1P.fastq.gz
+PASS	Per base sequence quality	SRR21566765_1P.fastq.gz
+PASS	Per sequence quality scores	SRR21566765_1P.fastq.gz
+WARN	Per base sequence content	SRR21566765_1P.fastq.gz
+WARN	Per sequence GC content	SRR21566765_1P.fastq.gz
+PASS	Per base N content	SRR21566765_1P.fastq.gz
+WARN	Sequence Length Distribution	SRR21566765_1P.fastq.gz
+PASS	Sequence Duplication Levels	SRR21566765_1P.fastq.gz
+PASS	Overrepresented sequences	SRR21566765_1P.fastq.gz
+PASS	Adapter Content	SRR21566765_1P.fastq.gz
+PASS	Basic Statistics	SRR21566765_2P.fastq.gz
+PASS	Per base sequence quality	SRR21566765_2P.fastq.gz
+PASS	Per sequence quality scores	SRR21566765_2P.fastq.gz
+FAIL	Per base sequence content	SRR21566765_2P.fastq.gz
+WARN	Per sequence GC content	SRR21566765_2P.fastq.gz
+PASS	Per base N content	SRR21566765_2P.fastq.gz
+WARN	Sequence Length Distribution	SRR21566765_2P.fastq.gz
+PASS	Sequence Duplication Levels	SRR21566765_2P.fastq.gz
+PASS	Overrepresented sequences	SRR21566765_2P.fastq.gz
+PASS	Adapter Content	SRR21566765_2P.fastq.gz
+PASS	Basic Statistics	SRR21566766_1P.fastq.gz
+PASS	Per base sequence quality	SRR21566766_1P.fastq.gz
+PASS	Per sequence quality scores	SRR21566766_1P.fastq.gz
+WARN	Per base sequence content	SRR21566766_1P.fastq.gz
+WARN	Per sequence GC content	SRR21566766_1P.fastq.gz
+PASS	Per base N content	SRR21566766_1P.fastq.gz
+WARN	Sequence Length Distribution	SRR21566766_1P.fastq.gz
+PASS	Sequence Duplication Levels	SRR21566766_1P.fastq.gz
+PASS	Overrepresented sequences	SRR21566766_1P.fastq.gz
+PASS	Adapter Content	SRR21566766_1P.fastq.gz
+PASS	Basic Statistics	SRR21566766_2P.fastq.gz
+PASS	Per base sequence quality	SRR21566766_2P.fastq.gz
+PASS	Per sequence quality scores	SRR21566766_2P.fastq.gz
+FAIL	Per base sequence content	SRR21566766_2P.fastq.gz
+WARN	Per sequence GC content	SRR21566766_2P.fastq.gz
+PASS	Per base N content	SRR21566766_2P.fastq.gz
+WARN	Sequence Length Distribution	SRR21566766_2P.fastq.gz
+PASS	Sequence Duplication Levels	SRR21566766_2P.fastq.gz
+PASS	Overrepresented sequences	SRR21566766_2P.fastq.gz
+PASS	Adapter Content	SRR21566766_2P.fastq.gz
+PASS	Basic Statistics	SRR21566767_1P.fastq.gz
+PASS	Per base sequence quality	SRR21566767_1P.fastq.gz
+PASS	Per sequence quality scores	SRR21566767_1P.fastq.gz
+WARN	Per base sequence content	SRR21566767_1P.fastq.gz
+WARN	Per sequence GC content	SRR21566767_1P.fastq.gz
+PASS	Per base N content	SRR21566767_1P.fastq.gz
+WARN	Sequence Length Distribution	SRR21566767_1P.fastq.gz
+PASS	Sequence Duplication Levels	SRR21566767_1P.fastq.gz
+PASS	Overrepresented sequences	SRR21566767_1P.fastq.gz
+PASS	Adapter Content	SRR21566767_1P.fastq.gz
+PASS	Basic Statistics	SRR21566767_2P.fastq.gz
+PASS	Per base sequence quality	SRR21566767_2P.fastq.gz
+PASS	Per sequence quality scores	SRR21566767_2P.fastq.gz
+FAIL	Per base sequence content	SRR21566767_2P.fastq.gz
+WARN	Per sequence GC content	SRR21566767_2P.fastq.gz
+PASS	Per base N content	SRR21566767_2P.fastq.gz
+WARN	Sequence Length Distribution	SRR21566767_2P.fastq.gz
+PASS	Sequence Duplication Levels	SRR21566767_2P.fastq.gz
+PASS	Overrepresented sequences	SRR21566767_2P.fastq.gz
+PASS	Adapter Content	SRR21566767_2P.fastq.gz

@@ -1,0 +1,31 @@
+clone	position	gene_region	dna_change	match	anc_status	anc_evidence	evidence	mc_plot
+S1	96710	mraY	G > A	Exact	Reference supported	G: 30 | A: 0	../SRR21566766/output/evidence/RA_1.html	
+S1	4124122	cytR	Delete T	Exact	Reference supported	Spanning reads: 29 REF | 0 ALT	../SRR21566766/output/evidence/RA_12.html	
+S2	96057	mraY	T > C	Exact	Reference supported	T: 17 | C: 0	../SRR21566764/output/evidence/RA_1.html	
+S2	581577	tfaD (prophage)	Insert T	Equivalent	Reference supported	Spanning reads: 19 REF | 0 ALT	../SRR21566764/output/evidence/RA_4.html	
+S2	3400531	mreB	G > A	Exact	Reference supported	G: 24 | A: 0	../SRR21566764/output/evidence/RA_9.html	
+S3	165124	mrcB	A > T	Exact	Minor ALT observed	A: 26 | T: 2	../SRR21566763/output/evidence/RA_1.html	
+S3	665554	mrdB	C > T	Exact	Reference supported	C: 33 | T: 0	../SRR21566763/output/evidence/RA_4.html	
+S3	2459904	fadI	T > G	Exact	Reference supported	T: 13 | G: 0	../SRR21566763/output/evidence/RA_9.html	
+S3	2866947	rpoS	A > G	Exact	Reference supported	A: 29 | G: 0	../SRR21566763/output/evidence/RA_10.html	
+S4	96078	mraY	C > T	Exact	Reference supported	C: 24 | T: 0	../SRR21566762/output/evidence/RA_2.html	
+S5	96078	mraY	C > T	Exact	Reference supported	C: 24 | T: 0	../SRR21566761/output/evidence/RA_1.html	
+S5	2071308	isrC upstream	G > T	Exact	Reference supported	G: 15 | T: 0	../SRR21566761/output/evidence/RA_6.html	
+R1	96078	mraY	CC > TT	Exact	Reference supported	Spanning reads: 17 REF | 0 ALT	../SRR21566760/output/evidence/RA_1.html	
+R1	1158579	ptsG	Delete T	Exact	Reference supported	Spanning reads: 20 REF | 0 ALT	../SRR21566760/output/evidence/RA_5.html	
+R2	94838	murF	C > A	Exact	Reference supported	C: 32 | A: 0	../SRR21566759/output/evidence/RA_1.html	
+R2	96069	mraY	C > T	Exact	Reference supported	C: 20 | T: 0	../SRR21566759/output/evidence/RA_2.html	
+R2	2810772	mprA	G > C	Exact	Reference supported	G: 22 | C: 0	../SRR21566759/output/evidence/RA_9.html	
+R2	3010732	hyuA	C > T	Exact	Reference supported	C: 14 | T: 0	../SRR21566759/output/evidence/RA_10.html	
+R3	668036	mrdA	A > G	Exact	Reference supported	A: 16 | G: 0	../SRR21566758/output/evidence/RA_3.html	
+R3	2810757	mprA upstream	A > G	Exact	Reference supported	A: 24 | G: 0	../SRR21566758/output/evidence/RA_8.html	
+R3	3986340	aslA / glmZ	Delete 15 bp	Exact	Reference supported	Spanning reads: 7 REF | 0 ALT	../SRR21566758/output/evidence/JC_40.html	../SRR21566758/output/evidence/MC_PLOT_27.html
+R4	1168987	bhsA upstream	T > C	Exact	No coverage	0 reads; missing-coverage region	../SRR21566757/output/evidence/RA_3.html	
+R4	1393895	mppA	G > A	Exact	Reference supported	G: 13 | A: 0	../SRR21566757/output/evidence/RA_4.html	
+R4	2352514	glpT / glpA	G > T	Exact	Reference supported	G: 13 | T: 0	../SRR21566757/output/evidence/RA_8.html	
+R4	2810757	mprA upstream	A > G	Exact	Reference supported	A: 24 | G: 0	../SRR21566757/output/evidence/RA_9.html	
+R4	3214755	rpoD	A > G	Exact	Reference supported	A: 18 | G: 0	../SRR21566757/output/evidence/RA_10.html	
+R5	97072	mraY	Delete G	Exact	Reference supported	Spanning reads: 33 REF | 0 ALT	../SRR21566765/output/evidence/RA_1.html	
+R5	261644	proA	C > T	Exact	Reference supported	C: 22 | T: 0	../SRR21566765/output/evidence/RA_3.html	
+R5	2026765	dgcQ	G > T	Exact	Reference supported	G: 26 | T: 0	../SRR21566765/output/evidence/RA_17.html	
+R5	2517106	pdeA	G > A	Exact	Reference supported	G: 16 | A: 0	../SRR21566765/output/evidence/RA_20.html	
